@@ -1,0 +1,11 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#F8FBFF"/>
+  <rect x="40" y="40" width="1200" height="640" rx="28" fill="#FFFFFF" stroke="#D8DEE4"/>
+  <rect x="86" y="96" width="300" height="36" rx="10" fill="#0E7C6F" fill-opacity="0.14"/>
+  <rect x="86" y="164" width="500" height="18" rx="9" fill="#E7EDF2"/>
+  <rect x="86" y="194" width="450" height="18" rx="9" fill="#E7EDF2"/>
+  <rect x="86" y="242" width="520" height="350" rx="20" fill="#FFF6E8" stroke="#E5D6BE"/>
+  <rect x="650" y="164" width="540" height="180" rx="18" fill="#DFF5F0"/>
+  <rect x="650" y="366" width="540" height="226" rx="18" fill="#FFE7D1"/>
+  <text x="96" y="625" fill="#62707A" font-size="28" font-family="Segoe UI, Arial">Recipe Generator UI Placeholder</text>
+</svg>

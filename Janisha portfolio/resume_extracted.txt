@@ -1,0 +1,61 @@
+Janisha Narang 
+LinkedIn:  janisha-narang Email: narangjanisha@gmail.com 
+  Github: janishaaa23                                                                                                                 Mobile:   +91-8437018613 
+ 
+SKILLS 
+• Languages: C, C++, JavaScript, Java, Python  
+• Frameworks: HTML,  CSS, NodeJS, React 
+• Tools/Platforms: MySQL, MongoDB 
+• Soft Skills: Problem-Solving, Quick Learner, Leadership, Adaptability 
+ PROJECTS 
+  Recipe Generator & Smart Grocery List | Link             Jul’ 25 
+• Designed a MERN-based recipe discovery platform that uses real-time API integration to deliver 
+personalized meal suggestions based on ingredients and user preferences.  
+• Secured the application with JWT-based authentication, enabling smooth login/logout, dark mode 
+toggling, and management of favorite recipes. 
+• Refined performance and responsiveness by integrating the Spoonacular API and structuring an 
+efficient React + Tailwind interface with a Node.js, Express.js, and MongoDB backend.  
+• Tech Used: React.js, Tailwind CSS , Node.js, Express.js, MongoDB Atlas  
+ 
+Demand-based Notification Platform for Course and Job Opportunities | Link                       May’ 25                                                                  
+• Crafted a smart notification system using PHP and JavaScript that analyzes user needs and 
+sends tailored alerts for relevant jobs and courses. 
+• Structured an end-to-end workflow that maps user interests to real-time opportunities and 
+ensures timely delivery of critical updates. 
+• Elevated user awareness by enabling accurate, demand-based notifications that help individuals 
+stay ahead of important career and learning openings. 
+• Tech Used: HTML, CSS, JavaScript, MySQL, PHP 
+ 
+ 
+TRAINING 
+   CipherSchools                                                                                                       Jul’ 25  
+Full-Stack Development                        
+• Developed full-stack web applications using HTML, CSS, JavaScript, React.js, Node.js, Express.js, 
+and MongoDB, covering both frontend and backend workflows. 
+• Built dynamic UI components, implemented RESTful APIs, handled database operations with 
+MongoDB/Mongoose, and created user authentication with JWT. 
+• Tech: HTML5, CSS3, JavaScript (ES6), React.js, Node.js, Express.js, MongoDB, Mongoose, JWT  
+ 
+CERTIFICATES 
+• Full-Stack Web Development | CipherSchools | Certificate              Jul’ 25 
+• Privacy and Security in Social Media | NPTEL | Certificate                        May’ 25 
+• Computer Communications | Coursera | Certificate                                                             Nov’ 24 
+• Unrevealing Basic Python towards ML/A | CSE Pathshala | Certificate                                   Feb’ 23 
+ 
+EXTRA CURRICULAR ACTIVITIES  
+• Attended Full Stack Web Development seminar at IIT Roorkee  
+• Participated in AstroQuest at IIT Ropar  
+• Received Appreciation Award from NGO  
+• Content Creator at College Club  
+ 
+EDUCATION 
+Lovely Professional University Punjab, India 
+Bachelor of Technology - Computer Science and Engineering;  CGPA: 8.09                           Aug’ 23 - Present 
+Montgomery Guru Nanak Public School       Jalandhar, Punjab 
+Intermediate;  Percentage: 84.2%          Apr’ 22 – Mar’ 23 
+St. Joseph’s Convent School      Jalandhar, Punjab 
+Matriculation;  Percentage: 91%          Apr’ 20 – Mar’ 21 
+ 
+• 
+• 
+• 

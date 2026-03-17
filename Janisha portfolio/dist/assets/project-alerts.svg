@@ -1,0 +1,52 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B0F2E"/>
+      <stop offset="1" stop-color="#111B35"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="90" x2="0" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3C2C23"/>
+      <stop offset="1" stop-color="#1D1A20"/>
+    </linearGradient>
+    <linearGradient id="purpleBtn" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#6D73FF"/>
+      <stop offset="1" stop-color="#8F54FF"/>
+    </linearGradient>
+    <linearGradient id="purpleText" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#6C89FF"/>
+      <stop offset="1" stop-color="#9B5CFF"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="220" height="100" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect y="90" width="1280" height="630" fill="url(#hero)"/>
+  <rect y="90" width="1280" height="630" fill="#000" fill-opacity="0.38"/>
+
+  <rect x="0" y="0" width="1280" height="90" fill="#121F36"/>
+  <text x="58" y="56" fill="url(#purpleText)" font-size="56" font-weight="700" font-family="Segoe UI, Arial">Opportunity Alert</text>
+
+  <g fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="34" font-weight="500">
+    <text x="490" y="56">Home</text>
+    <text x="640" y="56">Jobs</text>
+    <text x="780" y="56">Courses</text>
+    <text x="960" y="56">About Us</text>
+    <text x="1140" y="56">Contact</text>
+  </g>
+
+  <rect x="1050" y="20" width="120" height="52" rx="26" fill="url(#purpleBtn)"/>
+  <rect x="1188" y="20" width="130" height="52" rx="26" fill="url(#purpleBtn)"/>
+  <text x="1088" y="54" fill="#F8F8FF" font-size="34" font-family="Segoe UI, Arial" font-weight="600">Login</text>
+  <text x="1225" y="54" fill="#F8F8FF" font-size="34" font-family="Segoe UI, Arial" font-weight="600">Register</text>
+
+  <text x="80" y="525" fill="url(#purpleText)" font-size="88" font-weight="800" font-family="Segoe UI, Arial">Never Miss an Opportunity Again.</text>
+  <text x="295" y="595" fill="#F2F4FF" fill-opacity="0.9" font-size="52" font-family="Segoe UI, Arial">Get notified for the jobs and courses that truly matter to you.</text>
+
+  <rect x="540" y="618" width="170" height="74" rx="37" fill="url(#purpleBtn)"/>
+  <rect x="540" y="618" width="170" height="74" rx="37" fill="white" fill-opacity="0.08" filter="url(#glow)"/>
+  <rect x="735" y="620" width="150" height="70" rx="35" stroke="#8C65FF" stroke-width="4"/>
+  <text x="578" y="666" fill="#F6F8FF" font-size="44" font-family="Segoe UI, Arial" font-weight="600">Register</text>
+  <text x="780" y="666" fill="#8C65FF" font-size="44" font-family="Segoe UI, Arial" font-weight="600">Login</text>
+</svg>
